@@ -1,4 +1,5 @@
 # Hi there, I'm Sk16er! 👋
+![](https://komarev.com/ghpvc/?username=sk16er)
 
 ## About Me
 I'm a passionate developer with a love for coding and technology. I enjoy working on various projects, learning new skills, and contributing to the open-source community.
