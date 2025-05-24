@@ -3,6 +3,7 @@
 <p align="center"><strong>In india , I specialize in Ml and ai-technology with backend devlopment , with skills in React, HTML, CSS, Python, JavaScript, C++ and more..</strong></p>
 
 <h2 align="center">Skills & Expertise</h2>
+<h2![](https://komarev.com/ghpvc/?username=Sk16er)</h2>
 
 <p align=center>
 
