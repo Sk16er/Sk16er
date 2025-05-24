@@ -7,7 +7,7 @@
 <p align=center>
 
 <p align="center">
-  <a href="https://sanooj.is-a.dev">
+  <a href="https://github.com/sk16er">
     <img src="https://skillicons.dev/icons?i=python,js,ts,react,mongodb,nextjs,vite,tailwind,npm,docker,cpp,html,md,css,ps,windows,kali,stackoverflow,git,github&perline=12" />
   </a>
 </p>
