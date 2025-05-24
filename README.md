@@ -1,8 +1,10 @@
 ![](https://komarev.com/ghpvc/?username=Sk16er)
 
 
-<h1 align="center"><strong>Hi there! I'm Sk16er(shushank) 👋</strong></h1>
-
+<!-- Typing SVG Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=900&height=80&lines=Hi+there!+I'm+Sk16er+%F0%9F%91%8B;Backend+%7C+AI+%7C+ML+Engineer;I+love+building+cool+tools+%F0%9F%A4%96" alt="Typing SVG">
+</h1>
 <p align="center"><strong>In india , I specialize in Ml and ai-technology with backend devlopment , with skills in React, HTML, CSS, Python, JavaScript, C++ and more..</strong></p>
 
 <h2 align="center">Skills & Expertise</h2>
